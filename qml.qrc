@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Picture.qml</file>
+        <file>Audio.qml</file>
+        <file>Speed.qml</file>
+        <file>Cartoon.qml</file>
+        <file>Adjust.qml</file>
+        <file>PictureBasic.qml</file>
+        <file>SpeedRegular.qml</file>
+        <file>SpeedCurve.qml</file>
+        <file>CartoonEntry.qml</file>
+        <file>CartoonExit.qml</file>
+        <file>CartoonCombine.qml</file>
+        <file>AdjustBasic.qml</file>
+        <file>AdjustHSL.qml</file>
+        <file>AdjustCurve.qml</file>
+        <file>ImageText.qml</file>
+        <file>TextSliderSpin.qml</file>
+        <file>TextSwitch.qml</file>
+        <file>PictureAdjust.qml</file>
+        <file>PictureBackGround.qml</file>
+        <file>PictureMask.qml</file>
+        <file>KeyFrame.qml</file>
+    </qresource>
+</RCC>
